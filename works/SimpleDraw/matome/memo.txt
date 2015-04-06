@@ -1,0 +1,49 @@
+
+Menu作成
+	http://www.tohoho-web.com/java/swing.htm
+
+ColorChooserの配置
+	http://www1.megaegg.ne.jp/‾yasu/Programmer's%20Page/swing/JColorChooser/JColorChooser.html
+	
+フレームの表示位置
+	http://www.javadrive.jp/tutorial/jframe/index2.html
+	
+JSlider
+	http://docs.oracle.com/javase/jp/6/api/javax/swing/JSlider.html
+	http://www.wisdomsoft.jp/599.html
+	
+JToolBar
+	http://java.it-manual.com/application/jtoolbar.html
+	
+線の形状
+	http://www.geocities.jp/okamotomkk/Java/07_2D/01BaseDraw/03LineFigureStroke/LineFigureStroke.htm
+	
+破線
+	http://www.javadrive.jp/java2d/stroke/index6.html
+	
+statechanged
+	http://d.hatena.ne.jp/seinzumtode/20111113/1321187820
+	
+コピーあんどペースト
+	http://light21.s26.xrea.com/paintjava/chap15.html
+	
+WindowClose
+	http://www.ipc.hokusei.ac.jp/‾z00104/java/window.html
+	http://www2n.biglobe.ne.jp/‾fify/shiroutoshikou/java/api/java/awt/Frame.htm
+	
+dialog
+	http://www1.megaegg.ne.jp/‾yasu/Programmer's%20Page/swing/JDialog.html
+	
+キーボード入力
+	http://wisdom.sakura.ne.jp/system/java/awt/Gjava18.html
+
+スクロールバー
+	http://detail.chiebukuro.yahoo.co.jp/qa/question_detail/q1373314028
+	
+塗りつぶし
+	http://fussy.web.fc2.com/algo/algo3-2.htm	
+	
+拡張子
+	http://sattontanabe.blog86.fc2.com/blog-entry-38.html
+	
+	
